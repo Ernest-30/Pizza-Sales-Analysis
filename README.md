@@ -41,6 +41,8 @@ This is the full [Analysis](https://github.com/Ernest-30/Pizza-Sales-Analysis/bl
 
 # Findings
 
+Year considered - 2015
+
 Total_Orders - 48,620	
 
 Number_of_pizza_types - 32	
